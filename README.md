@@ -25,7 +25,7 @@ The Cloud Resume Challenge is a hands-on project that involves deploying a perso
 ## Architecture
 
 ```
-![Website Flow Diagram](assets/diagram.png)
+![Website Flow Diagram](diagram.png)
 ```
 
 ## Technologies Used
