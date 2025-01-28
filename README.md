@@ -25,7 +25,7 @@ The Cloud Resume Challenge is a hands-on project that involves deploying a perso
 ## Architecture
 
 ```
-User --> Cloudflare (Frontend) --> Azure Function (Backend) --> CosmosDB (Database)
+![Website Flow Diagram](assets/diagram.png)
 ```
 
 ## Technologies Used
