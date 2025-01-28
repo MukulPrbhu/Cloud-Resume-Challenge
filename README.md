@@ -25,7 +25,7 @@ The Cloud Resume Challenge is a hands-on project that involves deploying a perso
 ## Architecture
 
 ```
-![diagram](https://github.com/MukulPrbhu/Cloud-Resume-Challenge/blob/main/diagram.png?raw=true)
+![Diagram](https://github.com/MukulPrbhu/Cloud-Resume-Challenge/blob/main/diagram.png?raw=true)
 
 ```
 
