@@ -20,7 +20,7 @@ The Cloud Resume Challenge is a hands-on project that involves deploying a perso
   - API for handling visitor count
 
 - **Infrastructure:**
-  - Infrastructure as Code (IaC) using **Terraform/Bicep**
+  - Infrastructure as Code (IaC) using **Terraform**
 
 ## Architecture
 
